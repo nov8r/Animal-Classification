@@ -19,7 +19,15 @@ Animals-10 Dataset Details:
 
 Images are resized and augmented using torchvision transforms.
 
-## Model(s)
+## Features and Tools Used
+
+### Libraries:
+- **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** – Data Manipulation & Visualization
+- **Scikit-Learn**, **PyTorch** – Model Building, Preprocessing, Evaluation
+- **Google Colab** – Development Environment
+- **kagglehub**, **os**, **random**, **PIL**, **TQDM** - Misc. Tools
+
+### Model(s)
 
 The CNN model is custom-built using PyTorch. Key architecture features:
 - 4 convolutional layers
@@ -37,7 +45,14 @@ We included three other pretrained models as well including, ResNet50, Efficient
 
 - Accuracy, confusion matrix, and classification report are calculated on the test set.
 - Training and validation losses are plotted over epochs.
-- Misclassified examples are visualized to diagnose model performance.
+- True and False predictions are visualized to diagnose model performance.
+
+**Metrics used**:
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
 
 ## Results
 
@@ -189,3 +204,8 @@ End Model Results:
 ----
 
 Note: I am aware that for both the Custom model and the ResNet50, the true predictions images contain false predictions. I will be working to fix that soon.
+
+## Author
+
+Project by **Ethan Posey**  
+Original coursework: DAT 350 – Data Management and Data Science
