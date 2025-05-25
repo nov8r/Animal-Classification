@@ -208,4 +208,4 @@ Note: I am aware that for both the Custom model and the ResNet50, the true predi
 ## Author
 
 Project by **Ethan Posey**  
-Original coursework: DAT 350 – Data Management and Data Science
+Original coursework: CSC 351 - Machine Learning
