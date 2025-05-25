@@ -4,6 +4,8 @@ This project trains a Convolutional Neural Network (CNN) to classify images of a
 It originated as a final project in collaboration with one of my classmates, Braydon Johnson, for my CSC 351 Machine Learning class. Post-completion of the class, I decided to make some minor improvements and polish it up a little bit more.
 I may continue to revisit this project and try to further add to and improve my model.
 
+Colab link: https://colab.research.google.com/drive/1omnEIpH496ARGgZ5im4oUCaMctFpYKAW?usp=sharing
+
 ## Dataset
 
 The data we used in this project is the Animals-10 dataset from Kaggle.
