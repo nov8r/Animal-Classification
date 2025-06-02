@@ -207,5 +207,5 @@ Note: I am aware that for both the Custom model and the ResNet50, the true predi
 
 ## Author
 
-Project by **Ethan Posey**  
+Project by **Ethan Posey** & **Braydon Johnson**
 Original coursework: CSC 351 – Machine Learning
